@@ -1,0 +1,3 @@
+/home/kitanosa/labs/os/lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kitanosa/labs/os/lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kitanosa/labs/os/lab2/cmake-build-debug/CMakeFiles/lab2.dir

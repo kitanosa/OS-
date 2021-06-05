@@ -1,0 +1,4 @@
+/home/kitanosa/programs/clion-2020.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" /home/kitanosa/labs/os/lab2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kitanosa/labs/os/lab2/cmake-build-debug

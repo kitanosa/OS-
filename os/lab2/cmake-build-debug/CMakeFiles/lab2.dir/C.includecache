@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kitanosa/labs/os/lab2/lab2.c
+unistd.h
+-
+stdio.h
+-
+sys/types.h
+-
+stdlib.h
+-
+errno.h
+-
+assert.h
+-
+ctype.h
+-
+stdio.h
+-
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+
